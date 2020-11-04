@@ -82,7 +82,7 @@ docker run -dp 80:6000 --name sortstring carlosmurilloi/tallerdisponibilidad:lat
 * [GIT](https://git-scm.com/) - Control de versiones.
 * [JUNIT](https://junit.org/junit5/) - Framework para realizar y automatizar pruebas.
 * [SPARK](http://sparkjava.com/) - Framework para el desarrollo de aplicaciones web.
-* CIRCLECI - Plataforma para realizar la integración continua. [![CircleCI](https://circleci.com/gh/Camu10/AREP_LAB2.svg?style=svg)](https://app.circleci.com/pipelines/github/Camu10/AREP_LAB2)
+* CIRCLECI - Plataforma para realizar la integración continua. [![CircleCI](https://circleci.com/gh/Camu10/AREP_TallerDisponibilidadyDesempeno.svg?style=svg)](https://app.circleci.com/pipelines/github/Camu10/AREP_TallerDisponibilidadyDesempeno)
 * [AWS](https://aws.amazon.com/es/console/) - Computación en la nube.
 * [DOCKER](https://www.docker.com/) - Tecnología para el uso de contenedores.
 * JAVA - Lenguaje de programación.
